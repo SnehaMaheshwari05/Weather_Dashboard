@@ -17,6 +17,6 @@ Source :
 - 🖥 **Modern UI**: Clean, dark-themed dashboard with clear visual elements.
 
   ## Screenshot Of the dashboard
-  
+  http://raw.githubusercontent.com/SnehaMaheshwari05/Weather_Dashboard/refs/heads/main/Snapshot%20of%20the%20Dashbaord.png
   
   
