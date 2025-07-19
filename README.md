@@ -6,7 +6,7 @@ A visually appealing weather and air quality dashboard that provides real-time t
 
 
 ## Data Source
-Source :weatherapi.com
+Source :https://www.weatherapi.com/
 
 ## Features / Highlights
 - 🌤 **Real-time Weather Updates**: Displays current temperature, humidity, and wind speed.  
