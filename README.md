@@ -3,7 +3,10 @@
 A visually appealing weather and air quality dashboard that provides real-time temperature, humidity, wind speed, air quality index (AQI), and a 7-day weather forecast. Designed to help users quickly analyze weather conditions and air quality in a given city.
 
 ## Tech Stack
-
+The dashboard was built using the following tools and technologies:
+- 🖥 Power BI Desktop – Main data visualization platform used for report creation.
+- 🔄 Power Query – Data transformation and cleaning layer for reshaping and preparing the data.
+- 🧠 DAX(Data Analysis Expressions) - Used for calculated measures and conditional logic.
 
 ## Data Source
 Source :https://www.weatherapi.com/
